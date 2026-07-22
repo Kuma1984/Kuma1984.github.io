@@ -1,6 +1,10 @@
 /* ==========================================================
    Jacques McDermid Heyns Portfolio Website
    script.js
+
+   Note: Template used and adapted, so all functionality not
+   necessarily working. Can be updated and refined going
+   forward.
    ========================================================== */
 
 const titles = [
