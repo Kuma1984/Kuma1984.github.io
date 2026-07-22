@@ -1,9 +1,11 @@
 /*
    Jacques McDermid Heyns Portfolio Website
-   script.js
+   >> script.js
    
-   Note: All functionality not necessarily working.
-   Will ideally be updated and refined going forward.
+   Adds a few features to the website, such as a back to the top button.
+
+   NOTE: Not all the features were implemented in the end. Will ideally
+   be added/refined going forward.
 */
 
 const titles = [
