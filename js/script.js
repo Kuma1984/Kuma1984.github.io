@@ -4,6 +4,8 @@
    
    Note: All functionality not necessarily working.
    Will ideally be updated and refined going forward.
+
+   Note 2: Not deploying properly, will need further investigation.
 */
 
 const titles = [
